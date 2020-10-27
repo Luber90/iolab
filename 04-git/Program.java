@@ -12,14 +12,14 @@ class Lamp {
     System.out.println("Light on? " + isOn);
 
   }
-
+	
   // method to turnoff the light
   void turnOff() {
     isOn = false;
     System.out.println("Light on? " + isOn);
   }
 }
-
+//zmian2
 class Main {
   public static void main(String[] args) {
 
