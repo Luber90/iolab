@@ -1,6 +1,6 @@
 //zmiana
 class Lamp {
-  
+  //zmian1
   // stores the value for light
   // true if light is on
   // false if light is off
