@@ -1,4 +1,5 @@
 //zmiana
+//komentarz
 class Lamp {
   //zmian1
   // stores the value for light
