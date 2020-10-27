@@ -23,7 +23,7 @@ class Lamp {
 //zmian2
 class Main {
   public static void main(String[] args) {
-
+	//trzecia zmiana 2
     // create objects led and halogen
     Lamp led = new Lamp();
     Lamp halogen = new Lamp();
