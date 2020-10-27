@@ -2,6 +2,7 @@
 //komentarz
 //pierwsza zmiana
 class Lamp {
+	//stas1
 	//druga zmiana
   //zmian1
   // stores the value for light
