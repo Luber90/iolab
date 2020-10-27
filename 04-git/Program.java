@@ -35,4 +35,5 @@ class Main {
     // calling method turnOff()
     halogen.turnOff();
   }
+  //zmian3
 }
