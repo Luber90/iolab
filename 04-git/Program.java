@@ -1,6 +1,8 @@
 //zmiana
 //komentarz
+//pierwsza zmiana
 class Lamp {
+	//druga zmiana
   //zmian1
   // stores the value for light
   // true if light is on
@@ -13,6 +15,7 @@ class Lamp {
     System.out.println("Light on? " + isOn);
 
   }
+  //trzecia zmiana
 	
   // method to turnoff the light
   void turnOff() {
